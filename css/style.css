@@ -1,0 +1,35 @@
+body {
+    max-width: 900px;
+    margin: auto;
+    font-family: sans-serif;
+}
+
+.subtitle {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.section {
+    margin-bottom: 50px;
+}
+
+.content {
+    margin-left: 14px;
+}
+
+.emph {
+    font-weight: bold;
+}
+
+.indent {
+    margin-left: 50px;
+}
+
+.small {
+    font-size: 0.8em;
+}
+
+.vertspace {
+    height: 50px;
+}
